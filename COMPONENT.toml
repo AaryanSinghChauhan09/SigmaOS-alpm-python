@@ -3,7 +3,7 @@ name = "SigmaOS-alpm-python"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "alpm-python component"
+description = "GitHub description is a placeholder; component scope remains unclassified."
 upstream = []
 
 [contract]
